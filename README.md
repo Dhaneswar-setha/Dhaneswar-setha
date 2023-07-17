@@ -54,22 +54,22 @@
 ###
 
 <div align="left">
-  <a href="dhanes.munu.96" target="_blank">
+  <a href="https://www.facebook.com/dhanes.munu.96/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="i_am_dhanes" target="_blank">
+  <a href="https://www.instagram.com/i_am_dhanes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="dhaneswarseth" target="_blank">
+  <a href="https://www.linkedin.com/in/dhaneswarseth/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="@setha_dhaneswar" target="_blank">
+  <a href="https://twitter.com/setha_dhaneswar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://stackoverflow.com/users/20839966/dhaneswar-setha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
-  <a href="@dhaneswarsetha.123" target="_blank">
+  <a href="https://medium.com/@dhaneswarsetha.123" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
   <a href="dhaneswarsetha.123@gmail.com" target="_blank">
