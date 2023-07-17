@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhaneswar Seth</h1>
-<h3 align="center">🚀 Curiosity and continuous learning drive me forward. I stay up-to-date with the latest industry trends and emerging technologies, always seeking opportunities to expand my knowledge and explore innovative solutions. I am passionate about creating elegant, user-centric experiences that leave a lasting impression.</h3>
+<h3 align="center">Curiosity and continuous learning drive me forward. I stay up-to-date with the latest industry trends and emerging technologies, always seeking opportunities to expand my knowledge and explore innovative solutions. I am passionate about creating elegant, user-centric experiences that leave a lasting impression.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneswar-setha&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneswar-setha" /> </p>
 
