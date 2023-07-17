@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is  Dhaneswr and I'm a Frontend Developer , from  India</h2>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneswar-setha&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneswar-setha" /> </p>
+<h2 align="left">Hi 👋! My name is  Dhaneswr and I'm a Frontend Developer , from  India  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneswar-setha&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneswar-setha" /> </p></h2>
+ 
 
 ###
 
@@ -83,5 +83,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Dhaneswar-setha/Dhaneswar-setha/output/snake.svg" alt="Snake animation" />
-###
+
 
