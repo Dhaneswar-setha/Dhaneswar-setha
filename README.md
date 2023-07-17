@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneswar-setha&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneswar-setha" /> </p>
 
 - 🌱 I’m currently learning **Node.js,MongoDB**
+- 🌍  I'm based in Bhubaneswar
 
 - 📝 I regularly write articles on [https://medium.com/@dhaneswarsetha.123/a-step-by-step-guide-for-prompt-users-to-leave-a-rating-review-within-your-app-google-in-app-65be21b6d1e6](https://medium.com/@dhaneswarsetha.123/a-step-by-step-guide-for-prompt-users-to-leave-a-rating-review-within-your-app-google-in-app-65be21b6d1e6)
 
-- 📫 How to reach me **dhaneswarsetha.123@gmail.com**
+- ✉️  You can contact me at **dhaneswarsetha.123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
