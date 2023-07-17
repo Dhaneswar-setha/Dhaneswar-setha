@@ -72,8 +72,7 @@
   <a href="https://medium.com/@dhaneswarsetha.123" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <a href="dhaneswarsetha.123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
   </a>
 </div>
 
@@ -83,4 +82,4 @@
 
 <img src="https://raw.githubusercontent.com/Dhaneswar-setha/Dhaneswar-setha/output/snake.svg" alt="Snake animation" />
 
-###
+
