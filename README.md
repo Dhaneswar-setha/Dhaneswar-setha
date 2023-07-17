@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhaneswar Seth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">💻 As an expert in React, React Native, HTML, CSS, JavaScript, and Redux, I thrive on crafting elegant and efficient solutions to complex problems. Whether it's building responsive web applications or designing intuitive mobile interfaces, I love bringing ideas to life through clean code and pixel-perfect designs. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneswar-setha&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneswar-setha" /> </p>
 
